@@ -1,0 +1,67 @@
+﻿
+.container {
+    text-align: center;
+    background-color: rgb(56, 87, 35);
+    width: 600px;
+    margin: 10px auto;
+    border: 8px solid olive;
+    padding: 20px;
+}
+.align-right {
+ text-align: right;
+}
+
+header {
+    margin-top: 30px;  /* 上に余白を 30pxつける */
+    color: #2e99a9;  /*文字の色を緑に */
+}
+
+hr {
+    border-width: 3px;  /* 太さを 3pxに */
+    border-color: #2e99a9;  /* 線の色を緑に */
+    margin: 30px; 0; /* 上下の余白を 30pxに */
+}
+li {
+    font-size: 22px;  /*文字の大きさを 22pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: blueviolet;  /*文字の色を紫色に */
+}
+h1 {
+    font-size: 18px;  /*文字の大きさを 18pxに */
+    font-weight: bold;  /*文字の太さを太く */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: aqua;  /*文字の色を水色に */
+}
+h2{
+    font-size: 22px;  /*文字の大きさを 22pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: orange;  /*文字の色をオレンジ色に */
+}
+h3 {
+    font-size: 20px;  /*文字の大きさを 20pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: fuchsia;  /*文字の色をピンク色に */
+}
+h4 {
+    font-size: 18px;  /*文字の大きさを 18pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: lime;  /*文字の色を黄緑色に */
+}
+h5 {
+    font-size: 18px;  /*文字の大きさを 18pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: lime;  /*文字の色を黄緑色に */
+}
+p {
+    font-size: 25px;  /*文字の大きさを 16pxに */
+    margin: 0 auto; /* 横の余白を autoにして、中央に寄せる */
+    width: 600px;  /*幅を 600pxにする */
+    color: black; /*文字の色を黒色に */
+}
+
